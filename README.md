@@ -69,7 +69,7 @@ $a^{\prime} = a\times (kp)^{x\phi(n)}\equiv a\times 0^{p-1} = 0\pmod{p}$
 
 (ii-2) $a$が $q$ の倍数だが、 $p$ の倍数でないとする。このとき、 $a\equiv a\pmod{p}$ であり、 $a\equiv 0\pmod{q}$ である。
 
-(ii-1)と同様に、$a^{\prime}=a$である。
+(ii-1)と同様に、 $a^{\prime}=a$ である。
 
 (ii-3) $a$が $p$ の倍数かつ $q$ の倍数であるとする。このとき、 $a=kpq$ となる整数 $k$ が存在する。つまり、 $a\equiv 0\pmod{n}$ である。
 
